@@ -1,29 +1,30 @@
 # 📚 Master's Degree Lecture Notes — Computer Engineering (AI Track)
 
-Welcome! This repository contains my comprehensive, personal lecture notes written in **LaTeX** for the courses I am currently attending. 
+Welcome! This repository hosts ready-to-read compiled **PDF lecture notes** for the courses I am attending in the **Artificial Intelligence** track (M.Sc. in Computer Engineering at DEI).
 
-While these notes are tailored to the **Artificial Intelligence** study track within the **M.Sc. in Computer Engineering**, the core foundational courses and shared modules are completely relevant and useful for any student taking these exams at **DEI** (Department of Information Engineering).
-
----
-
-## 🔄 Update Frequency & Workflow
-
-* **Pace:** Synced and pushed every **two weeks** to reflect the progression of classroom lectures.
-* **Status:** Actively maintained throughout the academic semester.
-* **Access:** Fully open-source and freely accessible to everyone.
+These documents cover core foundational topics (Machine Learning, Advanced Statistics, Optimization, etc.) and are freely accessible to anyone taking these exams at DEI.
 
 ---
 
-## 🗂️ Repository Structure
+## 🔄 Update Schedule
+* **Cadence:** Updated bi-weekly following classroom lectures.
+* **Format:** Directly downloadable and viewable PDF files.
 
-Each course has its dedicated directory containing both the clean, compiled `.pdf` documents and the raw `.tex` source files (along with figures and diagrams):
+---
 
-```text
-.
-├── Course_Name_1/
-│   ├── build/              # Ready-to-read compiled PDF files
-│   ├── figures/            # Plots, diagrams, and illustrations
-│   └── src/                # LaTeX source code (.tex)
-├── Course_Name_2/
-│   └── ...
-└── README.md
+## 📂 Available Course Notes
+
+| Course | Topic / Track | Latest PDF | Last Updated |
+| :--- | :--- | :--- | :--- |
+| **Machine Learning** | 9 ECTS | [Download / View](./machine-learning/) | *Bi-weekly* |
+| **Foundation of Artificial Intelligence** | 9 ECTS | [Download / View](./foundation-of-artificial-intelligence/) | *Bi-weekly* |
+| **Operation Research 1** | DEI Shared Module | [Download / View](./) | *In progress* |
+| **Automata, Languages and Computation** | DEI Shared Module | [Download / View](./) | *In progress* |
+
+---
+
+## 💡 Notes on PDF Viewing
+GitHub natively renders PDF files directly in your web browser. Simply click on any `.pdf` file in the folders above, or download it to view it offline.
+
+## 🤝 Feedback & Errata
+Found a typo, an ambiguous notation, or a mathematical error in the notes? Feel free to open an **[Issue](../../issues)** detailing the page and equation number so I can correct it in the next bi-weekly build!
