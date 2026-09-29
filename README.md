@@ -18,8 +18,8 @@ These documents cover core foundational topics (Machine Learning, Advanced Stati
 | :--- | :--- | :--- | :--- |
 | **Machine Learning** | 9 ECTS | [Download / View](./machine-learning/) | *Bi-weekly* |
 | **Foundation of Artificial Intelligence** | 9 ECTS | [Download / View](./foundation-of-artificial-intelligence/) | *Bi-weekly* |
-| **Operation Research 1** | DEI Shared Module | [Download / View](./) | *In progress* |
-| **Automata, Languages and Computation** | DEI Shared Module | [Download / View](./) | *In progress* |
+| **Operation Research 1** | 9 ECTS | [Download / View](./) | *In progress* |
+| **Automata, Languages and Computation** | 6 ECTS | [Download / View](./) | *In progress* |
 
 ---
 
