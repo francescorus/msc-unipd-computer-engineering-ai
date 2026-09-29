@@ -17,7 +17,7 @@ These documents cover core foundational topics (Machine Learning, Advanced Stati
 | Course | Topic / Track | Latest PDF | Last Updated |
 | :--- | :--- | :--- | :--- |
 | **Machine Learning** | 9 ECTS | [Download / View](./machine-learning/machine-learning.pdf) | *Bi-weekly* |
-| **Foundation of Artificial Intelligence** | 9 ECTS | [Download / View](./foundation-of-artificial-intelligence/foundation-of-arficial-intelligence.pdf) | *Bi-weekly* |
+| **Foundation of Artificial Intelligence** | 9 ECTS | [Download / View](./foundation-of-artificial-intelligence/foundation_of_artificial_intelligence.pdf) | *Bi-weekly* |
 | **Operation Research 1** | 9 ECTS | [Download / View](./) | *In progress* |
 | **Automata, Languages and Computation** | 6 ECTS | [Download / View](./) | *In progress* |
 
