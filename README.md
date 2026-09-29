@@ -29,5 +29,5 @@ GitHub natively renders PDF files directly in your web browser. Simply click on 
 ## 🤝 Feedback & Errata
 Found a typo, an ambiguous notation, or a mathematical error in the notes? Feel free to open an **[Issue](../../issues)** detailing the page and equation number so I can correct it in the next bi-weekly build!
 
-## ⚖️ Academic Disclaimer & Fair Use
-* **Personal Notes:** These documents represent personal study notes, lecture transcriptions, and problem formulations. They are meant exclusively for individual study and supplementary reference. These materials are made available strictly for educational, non-commercial purposes. Redistribution for profit is prohibited.
+## ⚖️ Academic Disclaimer & Fair Use 
+**Personal Notes:** These documents represent personal study notes, lecture transcriptions, and problem formulations. They are meant exclusively for individual study and supplementary reference. These materials are made available strictly for educational, non-commercial purposes. Redistribution for profit is prohibited.
