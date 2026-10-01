@@ -2,7 +2,7 @@
 
 Welcome! This repository hosts ready-to-read compiled **PDF lecture notes** for the courses I am attending in the **Artificial Intelligence** track (M.Sc. in Computer Engineering at DEI).
 
-These documents cover core foundational topics (Machine Learning, Advanced Statistics, Optimization, etc.) and are freely accessible to anyone taking these exams at DEI.
+These documents cover core foundational topics (Machine Learning, Automata, Optimization, etc.) and are freely accessible to anyone taking these exams at DEI.
 
 ---
 
